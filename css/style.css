@@ -1,0 +1,24 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(218, 222, 230);
+    max-width: 800px;
+    margin: 100px auto;
+    padding: 0 20px;
+    line-height: 2;
+}
+
+.heading {
+    text-align: center;
+    color: rgb(5, 5, 114);
+    font-size: 40px;
+}
