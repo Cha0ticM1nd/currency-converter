@@ -2,7 +2,8 @@
 
 ## Here's a snippet of what you can see on my website:
 
-![currency-converter](https://github.com/Cha0ticM1nd/currency-converter/assets/127432678/febdae7f-541a-4365-9cf1-49a6b9a09899)
+![currency-converter](https://github.com/Cha0ticM1nd/currency-converter/assets/127432678/781b9b4f-0015-460e-8f3f-d7e61643b0e9)
+
 
 ### If you'd like to see more click [here](https://cha0ticm1nd.github.io/currency-converter/)
 
