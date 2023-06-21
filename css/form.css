@@ -52,8 +52,10 @@
 }
 
 .form__info {
-    color: rgb(94, 94, 94);
+    color: rgb(0, 0, 0);
     text-align: center;
-    margin: 10px auto;
-    margin-bottom: 30px;
+    margin: 30px auto;
+    margin-bottom: 50px;
+    font-weight: 600;
+    font-size: 15px;
 }
